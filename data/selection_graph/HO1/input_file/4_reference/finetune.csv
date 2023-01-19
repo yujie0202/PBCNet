@@ -1,0 +1,13 @@
+reference_num,Ligand1,Ligand2,Lable,Lable1,Lable2,Rank1,Rank2,Rank,Ligand1_num,Ligand2_num
+1,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7p.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7a.pkl,1.1383026981662812,5.096910013008056,3.958607314841775,10,4,10,lig_7p,lig_7a
+1,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7m.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7a.pkl,2.0871501757188997,6.045757490560675,3.958607314841775,14,4,14,lig_7m,lig_7a
+1,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7l.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7a.pkl,2.0636690798693773,6.022276394711152,3.958607314841775,11,4,11,lig_7l,lig_7a
+2,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7a.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7p.pkl,-1.1383026981662812,3.958607314841775,5.096910013008056,4,10,10,lig_7a,lig_7p
+2,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7m.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7p.pkl,0.9488474775526186,6.045757490560675,5.096910013008056,14,10,14,lig_7m,lig_7p
+2,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7l.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7p.pkl,0.9253663817030962,6.022276394711152,5.096910013008056,11,10,11,lig_7l,lig_7p
+3,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7a.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7m.pkl,-2.0871501757188997,3.958607314841775,6.045757490560675,4,14,14,lig_7a,lig_7m
+3,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7p.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7m.pkl,-0.9488474775526186,5.096910013008056,6.045757490560675,10,14,14,lig_7p,lig_7m
+3,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7l.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7m.pkl,-0.023481095849522404,6.022276394711152,6.045757490560675,11,14,14,lig_7l,lig_7m
+4,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7a.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7l.pkl,-2.0636690798693773,3.958607314841775,6.022276394711152,4,11,11,lig_7a,lig_7l
+4,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7p.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7l.pkl,-0.9253663817030962,5.096910013008056,6.022276394711152,10,11,11,lig_7p,lig_7l
+4,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7m.pkl,/home/yujie/leadopt/data/selection_graph/HO1/HO1_lig_7l.pkl,0.023481095849522404,6.045757490560675,6.022276394711152,14,11,14,lig_7m,lig_7l

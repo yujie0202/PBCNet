@@ -1,0 +1,13 @@
+reference_num,Ligand1,Ligand2,Lable,Lable1,Lable2,Rank1,Rank2,Rank,Ligand1_num,Ligand2_num
+1,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_41.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_1.pkl,1.014349026309051,7.111259039317107,6.096910013008056,2,5,5,lig_41,lig_1
+1,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_42.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_1.pkl,0.4914702810287137,6.58838029403677,6.096910013008056,8,5,8,lig_42,lig_1
+1,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_S8.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_1.pkl,-0.4771212547196626,5.619788758288394,6.096910013008056,6,5,6,lig_S8,lig_1
+2,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_1.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_41.pkl,-1.014349026309051,6.096910013008056,7.111259039317107,5,2,5,lig_1,lig_41
+2,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_42.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_41.pkl,-0.5228787452803374,6.58838029403677,7.111259039317107,8,2,8,lig_42,lig_41
+2,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_S8.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_41.pkl,-1.4914702810287137,5.619788758288394,7.111259039317107,6,2,6,lig_S8,lig_41
+3,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_1.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_42.pkl,-0.4914702810287137,6.096910013008056,6.58838029403677,5,8,8,lig_1,lig_42
+3,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_41.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_42.pkl,0.5228787452803374,7.111259039317107,6.58838029403677,2,8,8,lig_41,lig_42
+3,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_S8.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_42.pkl,-0.9685915357483763,5.619788758288394,6.58838029403677,6,8,8,lig_S8,lig_42
+4,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_1.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_S8.pkl,0.4771212547196626,6.096910013008056,5.619788758288394,5,6,6,lig_1,lig_S8
+4,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_41.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_S8.pkl,1.4914702810287137,7.111259039317107,5.619788758288394,2,6,6,lig_41,lig_S8
+4,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_42.pkl,/home/yujie/leadopt/data/selection_graph/FGFR2/FGFR2_lig_S8.pkl,0.9685915357483763,6.58838029403677,5.619788758288394,8,6,8,lig_42,lig_S8

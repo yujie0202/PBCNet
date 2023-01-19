@@ -1,0 +1,107 @@
+Prediction:
+    reference number: 1
+    spearman: 0.14725274725274726
+    pearson: 0.20470550751483788
+    selected molecule: ['lig_44' 'lig_S5' 'lig_S8']
+ 
+Prediction:
+    reference number: 1
+    spearman: 0.14725274725274726
+    pearson: 0.20470550751483788
+    selected molecule: ['lig_44' 'lig_S5' 'lig_S8']
+ 
+Prediction:
+    reference number: 1
+    spearman: 0.14725274725274726
+    pearson: 0.20470550751483788
+    selected molecule: ['lig_44' 'lig_S5' 'lig_S8']
+ 
+Prediction:
+    reference number: 1
+    spearman: 0.14725274725274726
+    pearson: 0.20470550751483788
+    selected molecule: ['lig_44' 'lig_S5' 'lig_S8']
+ 
+Prediction:
+    reference number: 1
+    spearman: 0.14725274725274726
+    pearson: 0.20470550751483788
+    selected molecule: ['lig_44' 'lig_S5' 'lig_S8']
+ 
+Finetuned with 4 molecules.
+Prediction:
+    reference number: 4
+    spearman: -0.16363636363636364
+    pearson: -0.03816806596855283
+    selected molecule: ['lig_2' 'lig_18' 'lig_15']
+ 
+Finetuned with 7 molecules.
+Prediction:
+    reference number: 7
+    spearman: 0.09523809523809523
+    pearson: 0.6624899183540691
+    selected molecule: ['lig_34' 'lig_41' 'lig_42']
+ 
+Finetuned with 10 molecules.
+Prediction:
+    reference number: 10
+    spearman: 0.4
+    pearson: 0.749438833360206
+    selected molecule: ['lig_43' 'lig_38' 'lig_19']
+ 
+lig_38 is selected!
+order: 11
+The iteration of AL is over!
+Prediction:
+    reference number: 1
+    spearman: 0.14725274725274726
+    pearson: 0.20470550751483788
+    selected molecule: ['lig_40' 'lig_42' 'lig_41']
+ 
+Finetuned with 4 molecules.
+Prediction:
+    reference number: 4
+    spearman: -0.4090909090909091
+    pearson: -0.06188072020500708
+    selected molecule: ['lig_15' 'lig_2' 'lig_S8']
+ 
+Finetuned with 7 molecules.
+Prediction:
+    reference number: 7
+    spearman: 0.07142857142857142
+    pearson: 0.3126540221872597
+    selected molecule: ['lig_S5' 'lig_43' 'lig_38']
+ 
+lig_38 is selected!
+order: 9
+The iteration of AL is over!
+Prediction:
+    reference number: 1
+    spearman: 0.14725274725274726
+    pearson: 0.20470550751483788
+    selected molecule: ['lig_40' 'lig_42' 'lig_41']
+ 
+Finetuned with 4 molecules.
+Prediction:
+    reference number: 4
+    spearman: -0.36363636363636365
+    pearson: -0.07335880930619865
+    selected molecule: ['lig_15' 'lig_2' 'lig_18']
+ 
+Finetuned with 7 molecules.
+Prediction:
+    reference number: 7
+    spearman: -0.38095238095238093
+    pearson: 0.1382522041252182
+    selected molecule: ['lig_44' 'lig_S5' 'lig_S8']
+ 
+Finetuned with 10 molecules.
+Prediction:
+    reference number: 10
+    spearman: 0.9
+    pearson: 0.8902892678271243
+    selected molecule: ['lig_43' 'lig_38' 'lig_34']
+ 
+lig_38 is selected!
+order: 11
+The iteration of AL is over!

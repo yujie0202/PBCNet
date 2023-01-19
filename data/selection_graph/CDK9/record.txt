@@ -1,0 +1,94 @@
+Prediction:
+    reference number: 1
+    spearman: 0.1347903239582838
+    pearson: 0.11634112685812688
+    selected molecule: ['lig_35' 'lig_20' 'lig_32']
+ 
+lig_20 is selected!
+order: 2
+Finetuned with 4 molecules.
+Prediction:
+    reference number: 4
+    spearman: 0.19739885391294765
+    pearson: 0.13464399718315578
+    selected molecule: ['lig_36' 'lig_40' 'lig_5']
+ 
+lig_40 is selected!
+order: 5
+Finetuned with 7 molecules.
+Prediction:
+    reference number: 7
+    spearman: -0.10518887953093974
+    pearson: -0.018477229709201813
+    selected molecule: ['lig_27' 'lig_22' 'lig_9']
+ 
+Finetuned with 10 molecules.
+Prediction:
+    reference number: 10
+    spearman: 0.23622932563075513
+    pearson: 0.22947792647876886
+    selected molecule: ['lig_17' 'lig_16' 'lig_25']
+ 
+lig_16 is selected!
+order: 11
+Finetuned with 13 molecules.
+Prediction:
+    reference number: 13
+    spearman: 0.16711601446803062
+    pearson: 0.1812316635281747
+    selected molecule: ['lig_12' 'lig_34' 'lig_15']
+ 
+Finetuned with 16 molecules.
+Prediction:
+    reference number: 16
+    spearman: 0.13005384778609724
+    pearson: 0.10648136448261897
+    selected molecule: ['lig_10' 'lig_8' 'lig_24']
+ 
+lig_24 is selected!
+order: 18
+Finetuned with 19 molecules.
+Prediction:
+    reference number: 19
+    spearman: -0.17376043796493254
+    pearson: -0.15774700345376866
+    selected molecule: ['lig_11' 'lig_30' 'lig_18']
+ 
+Finetuned with 22 molecules.
+Prediction:
+    reference number: 22
+    spearman: -0.29705882352941176
+    pearson: -0.2729365408568452
+    selected molecule: ['lig_4' 'lig_37' 'lig_21']
+ 
+Finetuned with 25 molecules.
+Prediction:
+    reference number: 25
+    spearman: -0.16483516483516483
+    pearson: -0.14956391761203996
+    selected molecule: ['lig_28' 'lig_31' 'lig_23']
+ 
+Finetuned with 28 molecules.
+Prediction:
+    reference number: 28
+    spearman: 0.21212121212121213
+    pearson: 0.3277560008245348
+    selected molecule: ['lig_39' 'lig_14' 'lig_33']
+ 
+Finetuned with 31 molecules.
+Prediction:
+    reference number: 31
+    spearman: -0.2857142857142857
+    pearson: -0.10601657868616002
+    selected molecule: ['lig_29' 'lig_26' 'lig_38']
+ 
+Finetuned with 34 molecules.
+Prediction:
+    reference number: 34
+    spearman: 0.8
+    pearson: 0.6125273662679811
+    selected molecule: ['lig_19' 'lig_13' 'lig_7']
+ 
+lig_19 is selected!
+order: 34
+The iteration of AL is over!

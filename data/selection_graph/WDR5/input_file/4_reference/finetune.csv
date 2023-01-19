@@ -1,0 +1,13 @@
+reference_num,Ligand1,Ligand2,Lable,Lable1,Lable2,Rank1,Rank2,Rank,Ligand1_num,Ligand2_num
+1,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_6.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_2.pkl,0.17609125905567957,10.657577319177792,10.481486060122112,11,5,11,lig_6,lig_2
+1,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_11.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_2.pkl,0.15678610386029668,10.638272163982409,10.481486060122112,10,5,10,lig_11,lig_2
+1,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_12.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_2.pkl,-0.7953532804912662,9.686132779630846,10.481486060122112,13,5,13,lig_12,lig_2
+2,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_2.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_6.pkl,-0.17609125905567957,10.481486060122112,10.657577319177792,5,11,11,lig_2,lig_6
+2,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_11.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_6.pkl,-0.019305155195382895,10.638272163982409,10.657577319177792,10,11,11,lig_11,lig_6
+2,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_12.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_6.pkl,-0.9714445395469458,9.686132779630846,10.657577319177792,13,11,13,lig_12,lig_6
+3,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_2.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_11.pkl,-0.15678610386029668,10.481486060122112,10.638272163982409,5,10,10,lig_2,lig_11
+3,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_6.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_11.pkl,0.019305155195382895,10.657577319177792,10.638272163982409,11,10,11,lig_6,lig_11
+3,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_12.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_11.pkl,-0.9521393843515629,9.686132779630846,10.638272163982409,13,10,13,lig_12,lig_11
+4,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_2.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_12.pkl,0.7953532804912662,10.481486060122112,9.686132779630846,5,13,13,lig_2,lig_12
+4,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_6.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_12.pkl,0.9714445395469458,10.657577319177792,9.686132779630846,11,13,13,lig_6,lig_12
+4,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_11.pkl,/home/yujie/leadopt/data/selection_graph/WDR5/WDR5_lig_12.pkl,0.9521393843515629,10.638272163982409,9.686132779630846,10,13,13,lig_11,lig_12

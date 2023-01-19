@@ -1,0 +1,13 @@
+reference_num,Ligand1,Ligand2,Lable,Lable1,Lable2,Rank1,Rank2,Rank,Ligand1_num,Ligand2_num
+1,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6e.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6a.pkl,-0.2708775784338817,6.815308569182402,7.086186147616283,43,24,43,lig_6e,lig_6a
+1,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_11i.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6a.pkl,1.436692597664054,8.522878745280337,7.086186147616283,42,24,42,lig_11i,lig_6a
+1,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_h.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6a.pkl,-0.5775478414505564,6.508638306165727,7.086186147616283,21,24,24,lig_h,lig_6a
+2,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6a.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6e.pkl,0.2708775784338817,7.086186147616283,6.815308569182402,24,43,43,lig_6a,lig_6e
+2,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_11i.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6e.pkl,1.7075701760979358,8.522878745280337,6.815308569182402,42,43,43,lig_11i,lig_6e
+2,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_h.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6e.pkl,-0.30667026301667466,6.508638306165727,6.815308569182402,21,43,43,lig_h,lig_6e
+3,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6a.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_11i.pkl,-1.436692597664054,7.086186147616283,8.522878745280337,24,42,42,lig_6a,lig_11i
+3,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6e.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_11i.pkl,-1.7075701760979358,6.815308569182402,8.522878745280337,43,42,43,lig_6e,lig_11i
+3,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_h.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_11i.pkl,-2.0142404391146105,6.508638306165727,8.522878745280337,21,42,42,lig_h,lig_11i
+4,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6a.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_h.pkl,0.5775478414505564,7.086186147616283,6.508638306165727,24,21,24,lig_6a,lig_h
+4,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_6e.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_h.pkl,0.30667026301667466,6.815308569182402,6.508638306165727,43,21,43,lig_6e,lig_h
+4,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_11i.pkl,/home/yujie/leadopt/data/selection_graph/sEH/sEH_lig_h.pkl,2.0142404391146105,8.522878745280337,6.508638306165727,42,21,42,lig_11i,lig_h

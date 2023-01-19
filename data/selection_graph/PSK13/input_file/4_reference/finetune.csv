@@ -1,0 +1,13 @@
+reference_num,Ligand1,Ligand2,Lable,Lable1,Lable2,Rank1,Rank2,Rank,Ligand1_num,Ligand2_num
+1,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_36.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_1.pkl,-0.18504610170860758,6.309803919971486,6.494850021680094,27,32,32,lig_36,lig_1
+1,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_24.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_1.pkl,-0.3077633783229494,6.187086643357144,6.494850021680094,9,32,32,lig_24,lig_1
+1,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_25.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_1.pkl,-0.051152522447380555,6.443697499232713,6.494850021680094,3,32,32,lig_25,lig_1
+2,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_1.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_36.pkl,0.18504610170860758,6.494850021680094,6.309803919971486,32,27,32,lig_1,lig_36
+2,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_24.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_36.pkl,-0.12271727661434184,6.187086643357144,6.309803919971486,9,27,27,lig_24,lig_36
+2,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_25.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_36.pkl,0.13389357926122702,6.443697499232713,6.309803919971486,3,27,27,lig_25,lig_36
+3,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_1.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_24.pkl,0.3077633783229494,6.494850021680094,6.187086643357144,32,9,32,lig_1,lig_24
+3,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_36.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_24.pkl,0.12271727661434184,6.309803919971486,6.187086643357144,27,9,27,lig_36,lig_24
+3,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_25.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_24.pkl,0.25661085587556887,6.443697499232713,6.187086643357144,3,9,9,lig_25,lig_24
+4,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_1.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_25.pkl,0.051152522447380555,6.494850021680094,6.443697499232713,32,3,32,lig_1,lig_25
+4,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_36.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_25.pkl,-0.13389357926122702,6.309803919971486,6.443697499232713,27,3,27,lig_36,lig_25
+4,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_24.pkl,/home/yujie/leadopt/data/selection_graph/PSK13/PSK13_lig_25.pkl,-0.25661085587556887,6.187086643357144,6.443697499232713,9,3,9,lig_24,lig_25
